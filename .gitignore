@@ -1,0 +1,25 @@
+# Generated / local data (do not commit)
+*.sqlite
+*.db
+pgdata/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local config: never commit these (database passwords, tokens)
+.env
+*.pem
+*.key
+credentials*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

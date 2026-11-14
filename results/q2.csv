@@ -1,0 +1,22 @@
+region,region_rank,customer_id,customer_name,segment,recognized_revenue
+Barishal,1,C00157,Customer 157 Traders,Retail,877374.84
+Barishal,2,C00045,Customer 045 Traders,Corporate,790427.77
+Barishal,3,C00197,Customer 197 Traders,Distributor,780474.20
+Chattogram,1,C00078,Customer 078 Traders,Wholesale,987745.15
+Chattogram,2,C00223,Customer 223 Traders,Wholesale,867105.15
+Chattogram,3,C00180,Customer 180 Traders,Distributor,847812.80
+Dhaka,1,C00399,Customer 399 Traders,Distributor,1046291.33
+Dhaka,2,C00041,Customer 041 Traders,Retail,966812.14
+Dhaka,3,C00232,Customer 232 Traders,Retail,899370.77
+Khulna,1,C00250,Customer 250 Traders,Corporate,821466.03
+Khulna,2,C00225,Customer 225 Traders,Wholesale,749876.25
+Khulna,3,C00321,Customer 321 Traders,Retail,746718.98
+Rajshahi,1,C00112,Customer 112 Traders,Retail,821636.08
+Rajshahi,2,C00292,Customer 292 Traders,Corporate,787538.61
+Rajshahi,3,C00255,Customer 255 Traders,Retail,690143.03
+Rangpur,1,C00076,Customer 076 Traders,Distributor,860253.35
+Rangpur,2,C00127,Customer 127 Traders,Distributor,858341.67
+Rangpur,3,C00194,Customer 194 Traders,Retail,857525.27
+Sylhet,1,C00118,Customer 118 Traders,Distributor,845295.12
+Sylhet,2,C00338,Customer 338 Traders,Corporate,762971.93
+Sylhet,3,C00040,Customer 040 Traders,Corporate,749894.49

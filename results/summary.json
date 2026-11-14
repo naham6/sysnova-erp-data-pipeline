@@ -1,0 +1,9 @@
+{
+  "clean_customers": 400,
+  "clean_orders": 19840,
+  "rejected_orders": 160,
+  "clean_order_lines": 48593,
+  "total_recognized_revenue": 321817856.69,
+  "payments_after_dedupe": 18849,
+  "ar_total_outstanding": 81153936.16
+}
